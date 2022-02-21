@@ -1,7 +1,7 @@
 % routine to demonstrate the calculation of the anisotropy line segments
 % for along the background magnetic field (B)
 
-% plot contours of |B| to check correctness
+% plot B vector to sanity check for correctness
 
 box_size = 0.5;
 xmin=-box_size;
